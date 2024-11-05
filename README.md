@@ -8,12 +8,12 @@
 
 - **MATLAB Pin-on-Plate Tool (`.zip`):** 
   Unzip this file to access the structured MATLAB folder containing:
-  - `data`: Contains datasets used for machine parameters.
+  - `data`: Contains parameters used to solve the data set and the solved data set.
   - `scripts`: Contains the main MATLAB scripts:
       - **ConstrainedOptimisationSolver:** Solves machine parameters for specific load cases.
-      - **generateCrossShearGrid:** Modify this script to solve for alternative gear radius, pin radius, and stroke ranges beyond those used in the provided dataset.
+      - **generateCrossShearGrid:** Modify this script to solve for alternative gear radius, pin radius, and stroke ranges beyond those used in the provided data set.
   - `source`: Includes additional files and functions required by the scripts.
 
 - **Python Pin-on-Plate Interpolation Tool (`.ipynb`):** 
-   A Python Jupyter notebook that provides a graphical method for interpolating data from the solved dataset.
+   A Python Jupyter notebook that provides a graphical method for interpolating data from the solved data set.
 
