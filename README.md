@@ -1,6 +1,6 @@
 ### Files Included
 
-- **MATLAB Dataset (`.mat` and `.xlsx`):** 
+- **MATLAB Data set (`.mat` and `.xlsx`):** 
   A data set presenting solved cross-shear ratios and pin rotations over the following multidirectional pin-on-plate machine parameters:
     - Gear radii: 2 to 50 mm
     - Pin radii: 2 to 10 mm 
